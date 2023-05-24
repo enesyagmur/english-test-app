@@ -1,0 +1,24 @@
+{
+  "kelimeler": [
+    {
+      "word": "add",
+      "anlam": "eklemek"
+    },
+    {
+      "word": "cut",
+      "anlam": "kesmek"
+    },
+    {
+      "word": "copy",
+      "anlam": "kopyalamak"
+    },
+    {
+      "word": "paste",
+      "anlam": "yapıştırmak"
+    },
+    {
+      "word": "search",
+      "anlam": "aramak"
+    }
+  ]
+}
